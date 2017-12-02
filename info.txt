@@ -1,0 +1,6 @@
+take data from screen. Name, address, email, phone no. from form.
+
+create a table "products"
+all table has "id"
+
+product name & price.
